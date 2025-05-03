@@ -1,35 +1,9 @@
-## Hi the<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Awkeadem Portfolio</title>
-  <style>
-    body {
-      margin: 0;
-      font-family: 'Segoe UI', sans-serif;
-      background-color: #121212;
-      color: #f1f1f1;
-    }
-    header {
-      padding: 2rem;
-      background-color: #1f1f1f;
-      text-align: center;
-    }
-    section {
-      padding: 2rem;
-      max-width: 800px;
-      margin: auto;
-    }
-    h1, h2 {
-      color: #00bfff;
-    }
-    footer {
+
       text-align: center;
       padding: 1rem;
       background-color: #1f1f1f;
       font-size: 0.9rem;
-    }
+    
   </style>
 </head>
 <body>
