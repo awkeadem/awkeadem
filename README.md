@@ -56,7 +56,7 @@
   <section>
     <h2>Contact</h2>
     <p>Email: Awkedem@gmail.com</p>
-    <p>LinkedIn: linkedin.com/in/yourprofile</p>
+    <p>LinkedIn: linkedin.com/in/Awkeaden</p>
   </section>
 
   <footer>
