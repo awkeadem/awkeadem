@@ -44,10 +44,7 @@ I am a passionate video editor with experience in Adobe Premiere Pro and CapCut.
 </body>
 </html>
 re 👋
-  text-align: center;
-      padding: 1rem;
-      background-color: #1f1f1f;
-      font-size: 0.9rem;    
+   
 
   
 <!--
