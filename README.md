@@ -1,4 +1,3 @@
-    
   </style>
 </head>
 <body>
@@ -8,7 +7,6 @@
   </header>
 
   <section>
-    <h2>About Me</h2>
     <p><section id="about">
   <h2>About Me</h2>
   <p>
@@ -49,7 +47,8 @@ re 👋
   text-align: center;
       padding: 1rem;
       background-color: #1f1f1f;
-      font-size: 0.9rem;
+      font-size: 0.9rem;    
+
   
 <!--
 **awkeadem/awkeadem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
